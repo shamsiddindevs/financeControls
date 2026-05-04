@@ -1,8 +1,8 @@
-import React from 'react'
+
 
 const App = () => {
   return (
-    <div>Moliyaviy savodxonlik</div>
+    <div className="text-3xl font-bold underline">Moliyaviy savodxonlik</div>
   )
 }
 
